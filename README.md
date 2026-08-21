@@ -2,7 +2,7 @@
 
 An interactive, glassmorphic sales analytics dashboard built with Streamlit — featuring live filtering, 9+ chart types, and ML-powered revenue forecasting using Prophet.
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here after deployment]
+🔗Live Demo: (https://sales-revenue-analytics-dashboard-by726qlero7jlekea5soys.streamlit.app/)
 
 [Dashboard Preview]
 (screenshots/Preview_1.png)
