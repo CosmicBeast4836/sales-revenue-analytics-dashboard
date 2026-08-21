@@ -6,7 +6,13 @@ An interactive, glassmorphic sales analytics dashboard built with Streamlit — 
 
 [Dashboard Preview]
 <img width="1917" height="907" alt="Preview_1" src="https://github.com/user-attachments/assets/23cf4e7f-bf8d-42b8-afab-a67b27a539c1" />
+
+
+
 <img width="1913" height="910" alt="Preview_2" src="https://github.com/user-attachments/assets/bebfd822-10eb-4841-8fee-cc7870d4c26a" />
+
+
+
 <img width="1917" height="901" alt="Preview_3" src="https://github.com/user-attachments/assets/6269bfac-4083-4783-81bc-528338ab2b42" />
 
 
